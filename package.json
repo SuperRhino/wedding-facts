@@ -1,0 +1,23 @@
+{
+  "name": "wedding-facts",
+  "version": "1.0.0",
+  "description": "Wedding Facts Alexa Skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperRhino/wedding-facts.git"
+  },
+  "author": "SuperRhino",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SuperRhino/wedding-facts/issues"
+  },
+  "homepage": "https://github.com/SuperRhino/wedding-facts#readme"
+}
